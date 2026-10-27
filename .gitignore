@@ -1,0 +1,21 @@
+# Secrets
+.env
+
+# Competition data and anything derived from it (redistribution not allowed)
+data/
+labels/
+oof/
+lb/
+
+# Generated Kaggle kernels and their outputs
+kernels/prep/shard*/
+kernels/prep/probe_out/
+kernels/train/rsna-knee-*/
+kernels/infer/rsna-knee-*/
+**/out/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.DS_Store

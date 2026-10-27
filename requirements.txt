@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+aiohttp
+certifi
+pydicom
+opencv-python-headless
+torch
+timm
+kaggle
